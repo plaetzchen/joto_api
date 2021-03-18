@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='joto_api',
-      version='0.1.2',
+      version='0.1.3',
       description='A package to interact with api.joto.io',
       long_description=readme(),
       long_description_content_type="text/markdown",
