@@ -1,0 +1,14 @@
+site_name: joto_api
+
+theme:
+  name: "readthedocs"
+
+plugins:
+  - search
+  - mkdocstrings
+
+nav:
+    - Home: index.md
+    - Installation: installation.md
+    - Code Reference:
+        - Methods: reference.md

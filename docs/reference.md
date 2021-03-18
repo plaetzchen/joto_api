@@ -1,0 +1,3 @@
+# Methods
+
+::: joto_api
