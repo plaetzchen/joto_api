@@ -8,6 +8,7 @@ setup(name='joto_api',
       version='0.1',
       description='A package to interact with api.joto.io',
       long_description=readme(),
+      long_description_content_type="text/markdown",
       classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',
